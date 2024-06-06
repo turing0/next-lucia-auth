@@ -1,6 +1,6 @@
-export const APP_TITLE = "Acme";
+export const APP_TITLE = "CryptoTuring";
 export const DATABASE_PREFIX = "acme";
-export const EMAIL_SENDER = '"Acme" <noreply@acme.com>';
+export const EMAIL_SENDER = '"CryptoTuring" <turing175@gmail.com>';
 
 export enum Paths {
   Home = "/",
